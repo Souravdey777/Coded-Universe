@@ -164,8 +164,11 @@ Add the Licence for your package. I have used MIT.
 
 Write the package's basic details in the Readme file like how to use it and what it does. Now, you can **Create a new release** for the npm package with proper versioning.
 
-you can check the repo for reference 
- [https://github.com/Souravdey777/awesome-npm](https://github.com/Souravdey777/awesome-npm) 
+you can check the repo for reference 👉
+[https://github.com/Souravdey777/awesome-npm](https://github.com/Souravdey777/awesome-npm) 
+
+and the npm package 👉
+ [https://www.npmjs.com/package/awesome-npm](https://www.npmjs.com/package/awesome-npm) 
 
 
 # 😎 

@@ -75,11 +75,13 @@ Just remove the `infinite` from the CSS code for getting the animation once on t
 Now, put on your creative hats and make an animation effect for your whole website on the initial load.
 
 You can check something similar I did for my portfolio website.
- [Souravdey.Space](https://souravdey.space)  
+ [Souravdey.Space](https://souravdey.space) ✌
 
 Drop the website link in the comments for which you would be doing it or have done it.
 
-### Contact me 
+Show your love by Sharing the blog. 🤗 
+
+### Contact me 🌍
 
 - [Github](https://github.com/Souravdey777/)
 - [LinkedIn](https://www.linkedin.com/in/souravdey777)

@@ -1,4 +1,4 @@
-## Page fade-in animation with CSS
+## 🎨 Page fade-in animation with CSS
 
 ### Simple animations can bring a huge difference to your websites.
 

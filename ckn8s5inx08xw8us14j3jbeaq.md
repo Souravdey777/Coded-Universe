@@ -1,4 +1,4 @@
-## ⚡TIL: Creating your own npm package
+## ⚡ TIL: Creating your own npm package
 
 #### First of all, **What is npm?**
 
